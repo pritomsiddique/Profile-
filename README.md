@@ -23,3 +23,57 @@ About
 > Web & App Developer 🌐 | Cyber Security Enthusiast 🛡️
 > Exploring new tech stacks, APIs, and ethical hacking tools
 > Blogging & Sharing knowledge @ pritomx6488.blogspot.com
+🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,androidstudio,firebase,linux,bash,git,github,vscode" />
+</p>
+---
+
+⚙️ GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritomx-it&show_icons=true&theme=chartreuse-dark&title_color=00FF99&icon_color=00FF99&hide_border=true&bg_color=000000" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritomx-it&theme=chartreuse-dark&hide_border=true&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" height="160px" />
+</p>
+---
+
+💾 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritomx-it&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF99&text_color=FFFFFF" height="150px" />
+</p>
+---
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="https://pritomx6488.blogspot.com/?m=1" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-00FF99?style=for-the-badge&logo=blogger&logoColor=black" />
+  </a>
+  <a href="https://github.com/pritomx-it" target="_blank">
+    <img src="https://randomit.com.free/files/2386780/business/logo/logo-568253889.png?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+---
+
+🐍 Contribution Graph
+
+
+
+
+---
+
+💬 Cyber Quote
+
+> "In the digital world, security isn’t an option — it’s survival."
+— PritomX IT 💻🧠
+
+
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritomx-it&theme=react-dark&bg_color=000000&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true" />
+</p>
